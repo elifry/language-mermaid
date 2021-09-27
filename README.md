@@ -2,13 +2,15 @@
 Adds syntax highlighting to [Mermaid](https://mermaid-js.github.io/mermaid/#/) files in [Atom](https://atom.io/).
 
 Example mermaid diagram:
-```mermaid
+```
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
 ```
+How it should look with syntax highlighting:
+![example of syntax highlighting](/resources/example.PNG)
 
 ## Mermaid rendering in Atom
 Several packages render mermaid drawings. None of these include syntax highlighting for Mermaid.
