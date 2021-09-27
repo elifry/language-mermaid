@@ -1,6 +1,7 @@
 # Mermaid language support in Atom
 Adds syntax highlighting to [Mermaid](https://mermaid-js.github.io/mermaid/#/) files in [Atom](https://atom.io/).
 
+Example mermaid diagram:
 ```mermaid
 graph TD;
     A-->B;
